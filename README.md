@@ -1,10 +1,16 @@
 # Workspace
 > Setup nodejs workspace
 
-## download
+## Getting [workspace](https://github.com/VandeurenGlenn/workspace/archive/master.tar.gz)
+
+```sh
+wget https://github.com/VandeurenGlenn/workspace/archive/master.tar.gz
+tar -xvf master.tar.gz
+```
 
 ## Usage
 ```sh
-su root // run as root
+// run as root
+su root
 sh workspace/init.sh
 ```
